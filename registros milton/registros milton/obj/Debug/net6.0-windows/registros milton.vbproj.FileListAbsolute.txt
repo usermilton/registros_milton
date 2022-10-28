@@ -1,0 +1,21 @@
+C:\Users\trome\OneDrive\Escritorio\milton_registro\registros milton\registros milton\bin\Debug\net6.0-windows\registros milton.exe
+C:\Users\trome\OneDrive\Escritorio\milton_registro\registros milton\registros milton\bin\Debug\net6.0-windows\registros milton.deps.json
+C:\Users\trome\OneDrive\Escritorio\milton_registro\registros milton\registros milton\bin\Debug\net6.0-windows\registros milton.runtimeconfig.json
+C:\Users\trome\OneDrive\Escritorio\milton_registro\registros milton\registros milton\bin\Debug\net6.0-windows\registros milton.dll
+C:\Users\trome\OneDrive\Escritorio\milton_registro\registros milton\registros milton\bin\Debug\net6.0-windows\registros milton.pdb
+C:\Users\trome\OneDrive\Escritorio\milton_registro\registros milton\registros milton\bin\Debug\net6.0-windows\ClassLibrary1.dll
+C:\Users\trome\OneDrive\Escritorio\milton_registro\registros milton\registros milton\bin\Debug\net6.0-windows\ClassLibrary1.pdb
+C:\Users\trome\OneDrive\Escritorio\milton_registro\registros milton\registros milton\bin\Debug\net6.0-windows\ClassLibrary1.xml
+C:\Users\trome\OneDrive\Escritorio\milton_registro\registros milton\registros milton\obj\Debug\net6.0-windows\registros milton.vbproj.AssemblyReference.cache
+C:\Users\trome\OneDrive\Escritorio\milton_registro\registros milton\registros milton\obj\Debug\net6.0-windows\registros_milton.Form1.resources
+C:\Users\trome\OneDrive\Escritorio\milton_registro\registros milton\registros milton\obj\Debug\net6.0-windows\registros milton.vbproj.GenerateResource.cache
+C:\Users\trome\OneDrive\Escritorio\milton_registro\registros milton\registros milton\obj\Debug\net6.0-windows\registros milton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trome\OneDrive\Escritorio\milton_registro\registros milton\registros milton\obj\Debug\net6.0-windows\registros milton.AssemblyInfoInputs.cache
+C:\Users\trome\OneDrive\Escritorio\milton_registro\registros milton\registros milton\obj\Debug\net6.0-windows\registros milton.AssemblyInfo.vb
+C:\Users\trome\OneDrive\Escritorio\milton_registro\registros milton\registros milton\obj\Debug\net6.0-windows\registros milton.vbproj.CoreCompileInputs.cache
+C:\Users\trome\OneDrive\Escritorio\milton_registro\registros milton\registros milton\obj\Debug\net6.0-windows\registros milton.vbproj.CopyComplete
+C:\Users\trome\OneDrive\Escritorio\milton_registro\registros milton\registros milton\obj\Debug\net6.0-windows\registros milton.dll
+C:\Users\trome\OneDrive\Escritorio\milton_registro\registros milton\registros milton\obj\Debug\net6.0-windows\refint\registros milton.dll
+C:\Users\trome\OneDrive\Escritorio\milton_registro\registros milton\registros milton\obj\Debug\net6.0-windows\registros milton.pdb
+C:\Users\trome\OneDrive\Escritorio\milton_registro\registros milton\registros milton\obj\Debug\net6.0-windows\registros milton.genruntimeconfig.cache
+C:\Users\trome\OneDrive\Escritorio\milton_registro\registros milton\registros milton\obj\Debug\net6.0-windows\ref\registros milton.dll
